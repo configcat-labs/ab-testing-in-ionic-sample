@@ -1,0 +1,30 @@
+.toolbar, .hint, .content{
+    text-align: center;
+}
+.content{
+    max-width: 960px;
+    margin: auto;
+    background-color: rgb(241, 232, 219);
+}
+.content h4{
+    color:rgb(20, 120, 167);
+    font-size: 24px;
+    font-weight: 600;
+}
+.content h2{
+    font-size: 32px;
+    text-transform: uppercase;
+    padding: 1rem 0;
+}
+.button{
+   font-size: 24px;
+   font-weight: 600;
+   height: 80px;
+   margin: 1rem auto;
+   color: rgb(255, 255, 255);
+   letter-spacing: 6px;
+   font-size: 28px;
+}
+.new-button{
+    text-transform: uppercase;
+}

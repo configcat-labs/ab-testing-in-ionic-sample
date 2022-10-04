@@ -1,0 +1,7 @@
+{
+  "name": "ionic-ab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
