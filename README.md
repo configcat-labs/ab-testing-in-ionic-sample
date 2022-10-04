@@ -13,7 +13,7 @@ If you want to run the app on your development machine, you'll need to have Git 
 
 Follow these steps to get the app running on your machine:
 - Click on the green 'Code' button in the repository's page and copy the URL in the text field that pops up.
-- Open the command line terminal on your computer.
+- Open the command line on your computer.
 - Run git clone [paste the link].
 - Navigate into the folder.
 - Install the dependencies.
